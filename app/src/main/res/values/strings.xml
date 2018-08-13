@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RoketsAM</string>
+    <string name="action_update">Update</string>a
+    <string name="action_exit">Exit</string>
+    <string name="engcountTW">Engines Count:</string>
+
+    <string name="WelcDial">"The application is opened for the first time!
+        Welcome Dialog!"
+
+    </string>
+
+
+</resources>
